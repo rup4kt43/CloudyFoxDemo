@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Main Dimension-->
+    <dimen name="main_margin">8dp</dimen>
+    <dimen name="main_padding">10dp</dimen>
+
+
+    <!--Card Dimension-->
+    <dimen name="card_corner_radius">6dp</dimen>
+    <dimen name="card_padding">14dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+    <!--Widget spacing-->
+    <dimen name="widget_spacing">10dp</dimen>
+
+
+</resources>
